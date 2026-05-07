@@ -1,4 +1,4 @@
-[07.05.2026 0:35] Обход белых списков Chat: {
+{
   "dns" : {
     "queryStrategy" : "UseIP",
     "servers" : [
@@ -92,7 +92,7 @@
       "tag" : "block"
     }
   ],
-  "remarks" : " ???? LTE | Канада | µTorrent",
+  "remarks" : " ???? LTE | РљР°РЅР°РґР° | ВµTorrent",
   "routing" : {
     "domainMatcher" : "hybrid",
     "domainStrategy" : "IPIfNonMatch",
@@ -168,12 +168,12 @@
           "keyword:oneme"
         ],
         "outboundTag" : "block",
-[07.05.2026 0:35] Обход белых списков Chat: "type" : "field"
+		"type" : "field"
       }
     ]
   }
 }
-[07.05.2026 0:35] Обход белых списков Chat: {
+{
   "dns" : {
     "queryStrategy" : "UseIP",
     "servers" : [
@@ -231,7 +231,7 @@
       "settings" : {
         "vnext" : [
           {
-            "address" : "most-ca.harknmav.fun",
+            "address" : "most-in.harknmav.fun",
             "port" : 443,
             "users" : [
               {
@@ -247,9 +247,9 @@
         "network" : "tcp",
         "realitySettings" : {
           "fingerprint" : "chrome",
-          "publicKey" : "3YCEhvsamGdAd2-A9Iw2zOg4AIvnB-7rE3ZYZz4RQmQ",
-          "serverName" : "eh.vk.com",
-          "shortId" : "4e352b0d4d15e0f9"
+          "publicKey" : "g6sT2b5vXWhCZx2e5xpbi8fyolCh81SdKA-4KLWvaAU",
+          "serverName" : "max.ru",
+          "shortId" : "2a752b0d4d15e0f9"
         },
         "security" : "reality",
         "tcpSettings" : {
@@ -267,7 +267,7 @@
       "tag" : "block"
     }
   ],
-  "remarks" : " ???? LTE | Канада | µTorrent",
+  "remarks" : "???? LTE | РРЅРґРёСЏ",
   "routing" : {
     "domainMatcher" : "hybrid",
     "domainStrategy" : "IPIfNonMatch",
@@ -343,12 +343,12 @@
           "keyword:oneme"
         ],
         "outboundTag" : "block",
-[07.05.2026 0:35] Обход белых списков Chat: "type" : "field"
+        "type" : "field"
       }
     ]
-  }
+	}
 }
-[06.05.2026 18:17] Обход белых списков Chat: {
+{
   "dns" : {
     "queryStrategy" : "UseIP",
     "servers" : [
@@ -442,7 +442,7 @@
       "tag" : "block"
     }
   ],
-  "remarks" : "???? LTE | Кипр | µTorrent",
+  "remarks" : "???? LTE | РљРёРїСЂ | ВµTorrent",
   "routing" : {
     "domainMatcher" : "hybrid",
     "domainStrategy" : "IPIfNonMatch",
@@ -518,11 +518,12 @@
           "keyword:oneme"
         ],
         "outboundTag" : "block",
-        "type" : "field"}
+        "type" : "field"
+		}
     ]
   }
 }
-[06.05.2026 17:57] Обход белых списков Chat: {
+{
   "burstObservatory" : {
     "pingConfig" : {
       "connectivity" : "",
@@ -695,6 +696,7 @@
               {
                 "encryption" : "none",
                 "flow" : "xtls-rprx-vision",
+				"id" : "eb4ccb47-a425-4475-b727-f9287676835e"
               }
             ]
           }
@@ -858,7 +860,8 @@
               }
             ]
           }
-        ],
+        ]
+			},
       "streamSettings" : {
         "network" : "tcp",
         "realitySettings" : {
@@ -883,7 +886,7 @@
       "tag" : "block"
     }
   ],
-  "remarks" : "???? LTE | Все операторы | Авто",
+  "remarks" : "???? LTE | Р’СЃРµ РѕРїРµСЂР°С‚РѕСЂС‹ | РђРІС‚Рѕ",
   "routing" : {
     "balancers" : [
       {
@@ -985,7 +988,7 @@
     ]
   }
 }
-[06.05.2026 17:53] Обход белых списков Chat: {
+{
   "dns" : {
     "queryStrategy" : "UseIP",
     "servers" : [
@@ -1079,7 +1082,7 @@
       "tag" : "block"
     }
   ],
-  "remarks" : "???? LTE | Игровой",
+  "remarks" : "???? LTE | РРіСЂРѕРІРѕР№",
   "routing" : {
     "domainMatcher" : "hybrid",
     "domainStrategy" : "IPIfNonMatch",
@@ -1155,12 +1158,12 @@
           "keyword:oneme"
         ],
         "outboundTag" : "block",
-[06.05.2026 17:53] Обход белых списков Chat: "type" : "field"
+		"type" : "field"
       }
     ]
   }
 }
-[06.05.2026 17:22] Обход белых списков Chat: {
+{
   "dns" : {
     "queryStrategy" : "UseIP",
     "servers" : [
@@ -1254,7 +1257,7 @@
       "tag" : "block"
     }
   ],
-  "remarks" : "???? LTE | Эстония | µTorrent",
+  "remarks" : "???? LTE | Р­СЃС‚РѕРЅРёСЏ | ВµTorrent",
   "routing" : {
     "domainMatcher" : "hybrid",
     "domainStrategy" : "IPIfNonMatch",
@@ -1331,10 +1334,11 @@
         ],
         "outboundTag" : "block",
         "type" : "field"
-[06.05.2026 17:22] Обход белых списков Chat: }
+		}
     ]
   }
-}[06.05.2026 17:21] Обход белых списков Chat: {
+}
+{
   "dns" : {
     "queryStrategy" : "UseIP",
     "servers" : [
@@ -1428,7 +1432,7 @@
       "tag" : "block"
     }
   ],
-  "remarks" : " ????  LTE | Дубай | µTorrent",
+  "remarks" : " ????  LTE | Р”СѓР±Р°Р№ | ВµTorrent",
   "routing" : {
     "domainMatcher" : "hybrid",
     "domainStrategy" : "IPIfNonMatch",
@@ -1603,7 +1607,7 @@
       "tag" : "block"
     }
   ],
-  "remarks" : " ???? LTE | Беларусь | µTorrent",
+  "remarks" : " ???? LTE | Р‘РµР»Р°СЂСѓСЃСЊ | ВµTorrent",
   "routing" : {
     "domainMatcher" : "hybrid",
     "domainStrategy" : "IPIfNonMatch",
@@ -1742,6 +1746,114 @@
       "settings" : {
         "vnext" : [
           {
+            "address" : "62.152.56.149",
+            "port" : 5443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "xtls-rprx-vision",
+                "id" : "dcfc3b18-febc-4957-bacf-d6c854de89a8"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "tcp",
+        "realitySettings" : {
+          "fingerprint" : "chrome",
+          "publicKey" : "LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ",
+          "serverName" : "max.ru"
+        },
+        "security" : "reality",
+        "tcpSettings" : {
+
+        }
+      },
+      "tag" : "proxy"
+    },
+    {
+      "protocol" : "freedom",
+      "tag" : "direct"
+    },
+    {
+      "protocol" : "blackhole",
+      "tag" : "block"
+    }
+  ],
+  "remarks" : "???? BOOST РђРІС‚Рѕ-Р‘Р°Р»Р°РЅСЃРµСЂ (Р‘РµР»С‹Рµ СЃРїРёСЃРєРё)",
+  "routing" : {
+    "domainMatcher" : "hybrid",
+    "domainStrategy" : "IPIfNonMatch",
+    "rules" : [
+      {
+        "outboundTag" : "direct",
+        "protocol" : [
+          "bittorrent"
+        ],
+        "type" : "field"
+      }
+    ]
+  }
+}
+{
+  "dns" : {
+    "queryStrategy" : "UseIP",
+    "servers" : [
+      "1.1.1.1",
+      "1.0.0.1"
+    ]
+  },
+  "inbounds" : [
+    {
+      "listen" : "127.0.0.1",
+      "port" : 10808,
+      "protocol" : "socks",
+      "settings" : {
+        "auth" : "noauth",
+        "udp" : true
+      },
+      "sniffing" : {
+        "destOverride" : [
+          "http",
+          "tls",
+          "quic"
+        ],
+        "enabled" : true,
+        "routeOnly" : false
+      },
+      "tag" : "socks"
+    },
+    {
+      "listen" : "127.0.0.1",
+      "port" : 10809,
+      "protocol" : "http",
+      "settings" : {
+        "allowTransparent" : false
+      },
+      "sniffing" : {
+        "destOverride" : [
+          "http",
+          "tls",
+          "quic"
+        ],
+        "enabled" : true,
+        "routeOnly" : false
+      },
+      "tag" : "http"
+    }
+  ],
+  "log" : {
+    "access" : "\/private\/var\/mobile\/Containers\/Shared\/AppGroup\/06BC733E-E9F0-41B4-91E9-BD6585E80009\/Library\/Application Support\/Xray\/logs\/access.log",
+    "dnsLog" : true,
+    "loglevel" : "Warning"
+  },
+  "outbounds" : [
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
             "address" : "178.250.242.250",
             "port" : 666,
             "users" : [
@@ -1778,7 +1890,7 @@
       "tag" : "block"
     }
   ],
-  "remarks" : "???? ?? Все операторы & AllServices",
+  "remarks" : "???? ?? Р’СЃРµ РѕРїРµСЂР°С‚РѕСЂС‹ & AllServices",
   "routing" : {
     "domainMatcher" : "hybrid",
     "domainStrategy" : "IPIfNonMatch",
@@ -1887,7 +1999,7 @@
       "tag" : "block"
     }
   ],
-  "remarks" : "???? ?? Все операторы & AllServices",
+  "remarks" : "???? ?? Р’СЃРµ РѕРїРµСЂР°С‚РѕСЂС‹ & AllServices",
   "routing" : {
     "domainMatcher" : "hybrid",
     "domainStrategy" : "IPIfNonMatch",
@@ -1995,7 +2107,115 @@
       "tag" : "block"
     }
   ],
-  "remarks" : "???? Авто-Балансер (Белые списки)",
+  "remarks" : "???? РђРІС‚Рѕ-Р‘Р°Р»Р°РЅСЃРµСЂ (Р‘РµР»С‹Рµ СЃРїРёСЃРєРё)",
+  "routing" : {
+    "domainMatcher" : "hybrid",
+    "domainStrategy" : "IPIfNonMatch",
+    "rules" : [
+      {
+        "outboundTag" : "direct",
+        "protocol" : [
+          "bittorrent"
+        ],
+        "type" : "field"
+      }
+    ]
+  }
+}
+{
+  "dns" : {
+    "queryStrategy" : "UseIP",
+    "servers" : [
+      "1.1.1.1",
+      "1.0.0.1"
+    ]
+  },
+  "inbounds" : [
+    {
+      "listen" : "127.0.0.1",
+      "port" : 10808,
+      "protocol" : "socks",
+      "settings" : {
+        "auth" : "noauth",
+        "udp" : true
+      },
+      "sniffing" : {
+        "destOverride" : [
+          "http",
+          "tls",
+          "quic"
+        ],
+        "enabled" : true,
+        "routeOnly" : false
+      },
+      "tag" : "socks"
+    },
+    {
+      "listen" : "127.0.0.1",
+      "port" : 10809,
+      "protocol" : "http",
+      "settings" : {
+        "allowTransparent" : false
+      },
+      "sniffing" : {
+        "destOverride" : [
+          "http",
+          "tls",
+          "quic"
+        ],
+        "enabled" : true,
+        "routeOnly" : false
+      },
+      "tag" : "http"
+    }
+  ],
+  "log" : {
+    "access" : "\/private\/var\/mobile\/Containers\/Shared\/AppGroup\/06BC733E-E9F0-41B4-91E9-BD6585E80009\/Library\/Application Support\/Xray\/logs\/access.log",
+    "dnsLog" : true,
+    "loglevel" : "Warning"
+  },
+  "outbounds" : [
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "62.152.59.110",
+            "port" : 5443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "xtls-rprx-vision",
+                "id" : "dcfc3b18-febc-4957-bacf-d6c854de89a8"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "tcp",
+        "realitySettings" : {
+          "fingerprint" : "chrome",
+          "publicKey" : "LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ",
+          "serverName" : "max.ru"
+        },
+        "security" : "reality",
+        "tcpSettings" : {
+
+        }
+      },
+      "tag" : "proxy"
+    },
+    {
+      "protocol" : "freedom",
+      "tag" : "direct"
+    },
+    {
+      "protocol" : "blackhole",
+      "tag" : "block"
+    }
+  ],
+  "remarks" : "???? РђРІС‚Рѕ-Р‘Р°Р»Р°РЅСЃРµСЂ-2 (Р‘РµР»С‹Рµ СЃРїРёСЃРєРё)",
   "routing" : {
     "domainMatcher" : "hybrid",
     "domainStrategy" : "IPIfNonMatch",
